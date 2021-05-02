@@ -4,7 +4,7 @@ import pandas as pd
 from numpy import loadtxt
 from collections import defaultdict
 # from dataset.swda.swda import CorpusReader
-from dataset import swda_split, mrda_split, a2g_split
+from dataset import swda_split, mrda_split, a2g_split, hope_split
 
 
 def get_splits(corpus_name):
@@ -14,6 +14,8 @@ def get_splits(corpus_name):
         return mrda_split.train_set_idx, mrda_split.valid_set_idx, mrda_split.test_set_idx
     if corpus_name=='a2g':
         return a2g_split.train_set_idx,a2g_split.valid_set_idx,a2g_split.test_set_idx
+    if corpus_name=='hope':
+        return hope_split.train_set_idx,hope_split.valid_set_idx,hope_split.test_set_idx
 
 
 def load_corpus(corpus_name, conversation_list):
