@@ -21,9 +21,8 @@ import seaborn as sns
 def train_and_save_word2vec(corpus_name, tokenized_sentences, wv_dim, wv_epochs):
     model = Word2Vec(size=wv_dim, min_count=1)
     model.build_vocab(tokenized_sentences)
-
     model.train(tokenized_sentences, total_examples=len(tokenized_sentences), epochs=wv_epochs)
-    model.wv.save_word2vec_format('C:/Users/Ganeshan/Desktop/CRF/resource/wv-'+corpus_name+'.bin', binary=True)
+    model.wv.save_word2vec_format('C:/Users/Ganeshan/Desktop/Thesis/CRF_baseline/resource/wv-'+corpus_name+'.bin', binary=True)
 
     vocabulary = list(model.wv.vocab.keys())
 

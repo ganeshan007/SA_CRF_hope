@@ -56,11 +56,12 @@ spk_le = LabelEncoder().fit(list(speaker_set))
 spk_lb = MyLabelBinarizer().fit(range(len(speaker_set)))
 
 for cid in conversation_list:
-    corpus[cid]['sequence'] = pad_sequences(corpus[cid]['sequence'], maxlen=max(seq_lens), padding='post', truncating='post')
-    corpus[cid]['tag'] = tag_lb.transform(corpus[cid]['tag'])
-    corpus[cid]['speaker'] = spk_le.transform(corpus[cid]['speaker'])
-    corpus[cid]['speaker_change'] = np.not_equal(corpus[cid]['speaker'][:-1], corpus[cid]['speaker'][1:]).astype(int)
-    corpus[cid]['speaker'] = spk_lb.transform(corpus[cid]['speaker'])
+    if cid!='107':
+        corpus[cid]['sequence'] = pad_sequences(corpus[cid]['sequence'], maxlen=max(seq_lens), padding='post', truncating='post')
+        corpus[cid]['tag'] = tag_lb.transform(corpus[cid]['tag'])
+        corpus[cid]['speaker'] = spk_le.transform(corpus[cid]['speaker'])
+        corpus[cid]['speaker_change'] = np.not_equal(corpus[cid]['speaker'][:-1], corpus[cid]['speaker'][1:]).astype(int)
+        corpus[cid]['speaker'] = spk_lb.transform(corpus[cid]['speaker'])
 
 X, Y, SPK, SPK_C = dict(), dict(), dict(), dict()
 for key, value in zip(['train', 'valid', 'test'], [train_set_idx, valid_set_idx, test_set_idx]):
