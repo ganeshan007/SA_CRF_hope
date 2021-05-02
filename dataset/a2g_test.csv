@@ -1,0 +1,605 @@
+ID,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion,Dialog_Act_Label
+111_0,T,So what's on the agenda for today.,irq,,,1
+111_1,P,"Definitely my dad. He's been on my case, like all week getting on me. It's been a real jerk in my room playing video games and talk to my friends and just barges into my room. You know, he's getting on me at dinner. He just never lets up and he's on the about, you know, getting a job get my life together. All the time. It's like, as soon as I wake up in the morning, you know, there's an email from or, you know, something, just tell me to do stuff I don't want to do. It doesn't get the, you know, I'm not feeling good. And I'm not gonna do that.",id,,,0
+111_2,T,"So let me so let me interrupt you for just a second here. Make sure I understand you. You're really upset about your father getting on you this past week, right? Yeah. And it's something that we could talk about today is just something that you think we could do to help the situation out?",id,,,0
+111_3,P,"Yeah, we got to figure out some way to get him to back off. Okay, he's just on me. I don't maybe we can bring him in here. You know, tell them something. write him a letter, I don't know, but something that could just get him to leave me alone.",id,,,0
+111_4,T,"Well, one idea would be to get him to bring him in here and get him to back off, but he's not here right now. And maybe there's some things that you can do to help him calm down or back up the situation on",id,,,0
+111_5,P,He's the one being a jerk.,id,,,0
+111_6,T,"Well, that may be but maybe there's things you could do to be a little more assertive with him to let him know how you're feeling? Or perhaps to calm the  situation down.",ynq,,,4
+111_7,P,"I don't know. If you've got some ideas all listen, I guess. But",yna,,,5
+111_8,T,"okay, well, maybe we can put our heads together and come up with some strategies to deal with your dad a little bit better. All right. Is that suddenly? Is that something we could put down in the agenda then?",irq,,,1
+111_9,P,"Yeah, no, I definitely want to talk about so how",id,,,0
+111_10,T,do I describe that then? dealing with my dad. Okay. Dealing with Dad.  Is there anything else you'd like to put on the agenda?,irq,,,1
+111_11,P,"I've been really tired lately just been sleeping a lot. Okay, last week or two.",id,,,0
+111_12,T,So I put down tired and sleep. So we have dealing with dad and tired and sleep. Which thing do you want to talk about first?,irq,,,1
+111_13,P,Definitely my dad.,id,,,0
+111_14,T,"Okay. So we don't want to forget about the homework. So we want to make sure we put that down on the agenda. And so, you want to talk about dealing with your dad, get do the homework first. Tough on my dad do definitely with your dad. Okay. So we want to make sure we allow enough time to talk about your homework is it's important. So tell me what happened this past week with your dad.",id,,,0
+163_0,T,"Hey Michelle, how are you doing today?",gt,,0.0,2
+163_1,P,"Umm I am kind of doing, I'm feeling a little bit stressed out",gt,,-1.0,2
+163_2,T,stressed?,irq,,0.0,1
+163_3,P,"Yeah, I feel like I have a lot on my plate. I have this test that I have to take for work.",id,,-1.0,0
+163_4,T,What kind of test?,irq,,0.0,1
+163_5,P,It's like an aptitude test. It has like math problems on it and like scenarios in order for me to move up to the system manager position.,id,,-1.0,0
+163_6,T,"Now, that's a job that you've been interested in for a while.",irq,,0.0,1
+163_7,P,"Yes. Yes. So I've been just feeling a lot of anxiety about taking the test and then they actually scheduled for me to take the test. And I want and I just got really overwhelmed. And I started like I felt my heart was racing. I felt like I wish my hands were shaking. And I just really couldn't concentrate on the test. Even though the night before me and my friend that practice problems, and I knew all the answers with no proper like, I didn't miss any of the questions",id,,-1.0,0
+163_8,T,so you know the material on this test pretty well?,ynq,,0.0,4
+163_9,P,yes.,yna,,0.0,5
+163_10,T,"But the feelings and that the physiological response to heart rate and sweating, that feelings of anxiety plus those physiological responses they got in the way of you completing it, like you were unable to complete it.",gc,,0.0,3
+163_11,P,"No, I wasn't able to complete it. And thankfully, they gave me a chance to come back. I just told him I didn't feel well. So they rescheduled so now I'm feeling a lot of anxiety because I'm scared the same thing is gonna happe, when I go back.",gc, id,-1.0,3
+163_12,T,So you weren't you weren't feeling great about taking the test in the first place?,irq,,0.0,1
+163_13,P,"Today, the night before, I felt like I know all the answers, but the minute I walked into the room, all of a sudden, all these fears kind of took over. ",id,,-1.0,0
+163_14,T,But did you know that was coming?,ynq,,0.0,4
+163_15,P,"Yes, ",yna,,0.0,5
+163_16,T,you did ?Okay.,irq,,0.0,1
+163_17,P,Yes.,id,,0.0,0
+163_18,T,So you had some anxiety in advance?,irq,,0.0,1
+163_19,P,"Yes, ",id,,0.0,0
+163_20,T,"or no, you did. Okay.",gc,,0.0,3
+163_21,P,"I had some anxiety the day before. But when I reviewed it with my friend, I'm like, Oh, I know the answers. I thought that would kind of push it down. But I think once I got there, it all came back up to the surface,",id,,-1.0,0
+163_22,T,"erupt in that moment, and that prevented you. What do you think is leading to this?",gc, orq,0.0,3
+163_23,P,"Well, I've always kind of struggled with tests. I'm like, I can remember when I was in third grade, I had to take this test, because I was really struggling in math. And I had to pass this test in order to move to the next grade. And I thought just like this test that I was ready for it, I had a tutor, and I felt really prepared for it. And then when I took it, I failed. And I was held back. And I feel like, you know, that was so it was, it was really embarrassing for me to be held back. And I felt like I don't want to say but I did feel like a failure at the time. Because I felt like I really didn't know this. I don't know why I couldn't pass the test.",id,,-1.0,0
+163_24,T,And since that this was third grade.,gc,,0.0,3
+163_25,P,Yeah.,ack,,0.0,6
+163_26,T,And since that bad testing experience. Have you had trouble with tests since?,ynq,,0.0,4
+163_27,P,"Yes, I always feel really anxious. I mean, I'm able to pass tests obviously because I graduated from college. School went on to high school. But it's so hard for me because of this anxiety that I feel that even though I may think I know it, I may still fail the test anyway, maybe like a repeat of what happened.",yna,,-1.0,5
+163_28,T,"Alright, so in third and third grade, you had a really bad testing experience. And as you move forward from there, you've never really been thrilled about taking tests ",irq,,0.0,1
+163_29,P,no,id,,0.0,0
+163_30,T,"But you've been able to adapt. You've been able to take them and still, like pass them.",ynq,,0.0,4
+163_31,P,"Yeah, I mean, sometimes I get an A. ",yna,,0.0,5
+163_32,T,"So that's, that's good, right? ",irq,,0.0,1
+163_33,P,"Yeah. I mean, yeah, it is good. Yeah, it's good.",id,,0.0,0
+163_34,T,"But this particular test, which is not for scorches for work, yeah, this one, this is more of a stumbling block for you.",gc,,0.0,3
+163_35,P,Yes.,ack,,0.0,6
+163_36,T,You have any ideas as to what may what may be what may be making this test such a point of anxiety for you?,gc,,0.0,3
+163_37,P,"I think it's just the fact that it's this promotion. So it's like the same thing. Like, if I fail, I'm being held back. And I feel like it's, we live in that moment of being held back. And that, that that's like a fear that I have that, um, that by not being able to pass these tests are holding me back.",gc, id,-1.0,3
+163_38,T,So it really that same feeling you've had in third grade. That's coming up with this test.,irq,,0.0,1
+163_39,P,"Yeah, I mean, I didn't put them together until now. But yeah.",id,,-1.0,0
+163_40,T,"And the other test you take in throughout the rest of grade school in high school they didn't, they didn't have that same value attached to them.",gc,,0.0,3
+163_41,P,"Now because they didn't have all that pressure that it was either win win or lose, basically, ",gc,,-1.0,3
+163_42,T,"you could, you could take them again or take the course again or?",irq,,0.0,1
+163_43,P,or I could take another test to raise the grade if I didn't do good on that.,id,,-1.0,0
+163_44,T,so you have you maybe had more options in school?,ynq,,0.0,4
+163_45,P,"Yes. Was it fail, you know, pass or fail?",yna,,-1.0,5
+163_46,T,"Right, So it's the, it's the pressure is the pressure of you need to get through this. And you don't have the safety nets that you had in school? ",gc, yq,0.0,3
+163_47,P,"Yeah, if I fail it, then I'm not going to be able to get the promotion, I would have to wait. Just like I did not have to wait a certain amount of time. I think an ear before I could take it again.",yna, id,-1.0,5
+163_48,T,So this a lot of pressure.,irq,,0.0,1
+163_49,P,Yeah it is,id,,0.0,0
+163_50,T,So is there any time limit to this test for work?,irq,,0.0,1
+163_51,P,"Um, no, there isn't.",id,,-1.0,0
+163_52,T,There's no time.,irq,,0.0,1
+163_53,P,No,id,,0.0,0
+163_54,T,"How many Is it like a, like a multiple choice? ",irq,,0.0,1
+163_55,P,"Yes, it is. ",id,,0.0,0
+163_56,T,"Okay. And you seem like, like you said, you said the night before with your friend. ",gc,,0.0,3
+163_57,P,Yeah.,ack,,0.0,6
+163_58,T,You're really well prepared for it.,gc,,0.0,3
+163_59,P,Yes.,gc,,0.0,3
+163_60,T,"So I have a few a few thoughts about this. One is I'm wondering you know, we've talked before about cognitive therapy core beliefs. So I'm curious as to what you think about what core beliefs may be operating. For you now with this with this test, this work test",gc,,0.0,3
+163_61,P,"that  I could fail that if I fail I could end up being a failure at all, you know, the things that I try",gc,,-1.0,3
+163_62,T,"something like, I am a failure or I'm bound to be a failure, I'm destined to be a failure. ",irq,,0.0,1
+163_63,P,I would say like I'm destined to be.,id,,0.0,0
+163_64,T,"Okay, so  destined to be failure. So that, so that, potentially, is a core belief. Right? That's, that's operating.",gc,,0.0,3
+163_65,P,"I mean, that's what scares me. That's, that's exactly the thought that I'm thinking when I'm about to take the test. And if I don't pass that, it's just gonna have like this domino effect of failure.",gc,,-1.0,3
+163_66,T,"Okay, so it could be a core belief, but it's also seems like you're still on that thought. Like as you get ready to take that test. You're thinking I'm just destined to be a failure. ",gc,,0.0,3
+163_67,P,Yeah.,ack,,-1.0,6
+163_68,T,And you're having what sounds like a panic response to heart racing.,irq,,0.0,1
+163_69,P,"Yeah, my hands shaking. ",id,,-1.0,0
+163_70,T,Are you in the room alone? You're taking the test?,ynq,,0.0,4
+163_71,P,"Yes, ",yna,,0.0,5
+163_72,T,you are. So no one's really seeing you have this. I wouldn't want to call it a panic attack yet we haven't really gotten too far into it. But it sounds like it has some panic like features.,gc,,0.0,3
+163_73,P,Yeah.,gc,,0.0,3
+163_74,T,"Because it's not. It's interfering with you thinking clearly enough to get to the items. So, okay. So one thought I have is you have you ever had panic attacks in the past or anything like this?, the third grade thing?",gc, irq,0.0,3
+163_75,P,"No, not really. I mean, sometimes I get worked out when I'm about to take a test, okay, but it's only around test.",id,,-1.0,0
+163_76,T,And what happens once you get worked up like once your heart rate increases and You have any other physiological symptoms would,irq,,0.0,1
+163_77,P,want to actually do take the test?,irq,,0.0,1
+163_78,T,hmmm,id,,0.0,0
+163_79,P,"Um, I kind of try to work through it and start trying to answer one question at a time to get to the last question.",id,,-1.0,0
+163_80,T,"So one one possible strategy here is we talked about the adaptive response. Right? So, which is that thought that you say to yourself that self talk, I wonder if your doctor response couldn't be I can ride this out like you have no time to test? ",gc, crq,0.0,3
+163_81,P,"Yeah, that's true. ",id,,0.0,0
+163_82,T,"I mean, the panic responses only maintained for so long",gc,,0.0,3
+163_83,P,and I could also choose like maybe questions that are no the answer to automatically so that could help maybe release some of that stress,gc,,-1.0,3
+163_84,T,"to get some in a sense to get some minor victories under your belt by like, answering those right you know, you're closer to achieving your goal",gc,,0.0,3
+163_85,P,"yes and then I feel like I know, at least I know that like, Don't validate the feeling that I maybe I can pass this test.",gc,,-1.0,3
+163_86,T,"So the more items you you answer correctly, the less anxious you're gonna feel because you're closer to the end of.",irq,,0.0,1
+163_87,P,"Yeah, definitely. Because then I start to feel more calm because I know that I know these questions are definitely going to be right.",id,,-1.0,0
+163_88,T,"So that's so that's one well, that's a cognitive and behavioral strategy, right? Like you can you can wait out the panic. I mean, you're in the room alone.",gc,,0.0,3
+163_89,P,"Yeah, that's true. Nobody's there. Nobody's gonna see me. I'm kind of trying to get myself together. ",gc,,-1.0,3
+163_90,T,"Yeah. Now the panic painful. Right, the you know, the panic symptoms are painful. So what you could tell yourself is, this isn't pleasant. But I can write out these symptoms because they only last so long. ",irq,,0.0,1
+163_91,P,"Probabiy, I could use like self talk. ",id,,-1.0,0
+163_92,T,"Exactly. Yeah, because usually mean peg symptoms can run you know, five minutes. 10 minutes, 15 minutes. But you have no time limit? ",gc, crq,0.0,3
+163_93,P,"Yeah,",id,,0.0,0
+163_94,T,"yeah so if you can just kind of use that time to focus on the items, as you mentioned, you could get right. And kind of, at the same time be telling yourself I can ride this out.",gc,,0.0,3
+163_95,P,"Yeah, I mean, I've done that in the past, so I can apply it to this test. ",id,,0.0,0
+163_96,T,So if that's worked for you that ?,irq,,0.0,1
+163_97,P,"yes, that has worked and I passed. ",id,,1.0,0
+163_98,T,"So that's, that's certainly that's certainly one adaptive response to try writing. Another one could be that, although it wouldn't be great to fail, you can retake the test in a year. Right. You could try it. ",gc,,0.0,3
+163_99,P,"Yeah, that's true.",gc,,0.0,3
+163_100,T,"I mean, I know that's not what you want, but, but the alternative is kind of buying into that automatic thought we know that's not working. Right. The I'm I'm Destin, that was the word right like I'm destined to be a failure. We know that's not working for you. ",gc,,0.0,3
+163_101,P,"So even if I have to take the test again and in a year, then I'm not going to be a failure because I still have the chance to take it again. It's not like I'll never be able to take this test again.",gc,,-1.0,3
+163_102,T,"Yeah, you just have, you just have another years of study, right? And, of course, you wouldn't have that promotion that time and that would be an outcome, I know you don't want. But it's not the end of your career, It's not like something so drastic it's important to you and I can appreciate that. But it's not the end of your career. You're not going to be unemployed.",gc,,0.0,3
+163_103,P,"No, no, definitely not. And just thinking back and relating it back to the third grade, even though I had to stay back. I still managed to, you know, do well the next year and keep moving up. And it hasn't really, in the long run prevented me from doing anything that I've wanted to do.",gc,,-1.0,3
+163_104,T,"So that's great. That's another adaptive response, which you've survived this before.",gc,,0.0,3
+163_105,P,"Yes, I definitely have.",gc,,0.0,3
+163_106,T,"So this one event, I mean, I had the the incident third grade with the unpleasant experience but this one event you don't want that this kind of fashion. While use your word, your destiny by like this was one that seemed to catch you off guard but the the panic like symptoms. And fortunately your employer is going to give you the chance to retake and try this again. And, and I met you know, so you have I imagine you could you can write out these, these symptoms. And I think you have the other adaptive response, which is I've been successful this before.",gc,,0.0,3
+163_107,P,"Yeah. I mean, definitely I feel a lot better now because I just know that no matter what happens, I've been here before, and I can get through it as opposed to like that feeling that I'm going to just fail together.",gc,,-1.0,3
+163_108,T,"Oh, it's so good, when you have to take the test?",irq,,0.0,1
+163_109,P,on next week.,id,,0.0,0
+163_110,T,So let's schedule one more appointment right before that.,gc,,0.0,3
+163_111,P,"Okay, right. ",gc,,0.0,3
+163_112,T,"And we'll, we'll make sure that you have these adaptive responses down and you're ready to go. Okay. And really will kind of focus on the positive outcome. Right. Okay, which is just taking this test taking one item at a time and fighting through some of these physical symptoms you're having, and fighting through the useful thoughts.",gc, id,0.0,3
+163_113,P,"Okay. Yeah, I mean, that sounds good. That helped me prepare for the test. ",gc,,1.0,3
+163_114,T,"Great. So, Michelle, I'll see you. I'll see you then and work through it. I really appreciate you coming in today.",gc,,0.0,3
+171_0,T,"Hi Rebecca, How are you doing?",gt,,0.0,2
+171_1,P,"I am good, how are you?",gt,,0.0,2
+171_2,T,Pretty good. Can I ask you what handed only write with?,gt, irq,0.0,2
+171_3,P,my right hand,id,,,0
+171_4,T,Your right hand would be all right to ask you some questions about your memory.,gc,,0.0,3
+171_5,P,I guess,ack,,0.0,6
+171_6,T,"Okay, thank you. I'm gonna ask you some questions and give you some problems to solve. Please try to answer them as best as you can. ",gc,,0.0,3
+171_7,P,Okay,ack,,0.0,6
+171_8,T,What year is this?,irq,,0.0,1
+171_9,P,2015,id,,0.0,0
+171_10,T,what season of the year is this?,irq,,0.0,1
+171_11,P,winter,id,,0.0,0
+171_12,T,what is the date today?,irq,,0.0,1
+171_13,P,January 20.,id,,0.0,0
+171_14,T,what day of the week is this ?,irq,,0.0,1
+171_15,P,Tuesday,id,,0.0,0
+171_16,T,What month is this,irq,,0.0,1
+171_17,P,January,id,,0.0,0
+171_18,T,Can you tell me what country we are in?,irq,,0.0,1
+171_19,P,United States,id,,0.0,0
+171_20,T,Do you know what county we're in?,irq,,9.0,1
+171_21,P,Newcastle,id,,0.0,0
+171_22,T,Do you know what city we're in?,irq,,0.0,1
+171_23,P,Newcastle,id,,0.0,0
+171_24,T,do the name or the address of this building?,irq,,0.0,1
+171_25,P,was it Graduate Center? Three weeks away 31 weeks away,id,,0.0,0
+171_26,T,What floor of the building are we on?,irq,,0.0,1
+171_27,P,First floor,id,,0.0,0
+171_28,T,"I am going to name three objects. After I've said them, I want you to repeat them back to me. Apple, Table, Penny",cmd,,0.0,7
+171_29,P,"Apple, Table, Penny",cr,,0.0,8
+171_30,T,remember what they are because I'm going to ask you to name them again in a few minutes.,gc,,0.0,3
+171_31,P,okay,ack,,0.0,6
+171_32,T,"Now I'm going to give you a word and ask you to spell it forwards and backwards. The word is world. First, Can you spell it forwards?",cmd,,0.0,7
+171_33,P,W O R L D,cr,,0.0,8
+171_34,T,"Now, can you spell it backwards?",cmd,,0.0,7
+171_35,P,D L R O W,cr,,0.0,8
+171_36,T,What were the three objects I asked you to remember earlier?,irq,,0.0,1
+171_37,P,world? No. Apple. I can't remember.,id,,0.0,0
+171_38,T,What is this called?,cmd,,0.0,7
+171_39,P,This the Watch.,cr,,0.0,8
+171_40,T,"I would like you to repeat a phrase after me. The phrases no ifs, ands or buts",cmd,,0.0,7
+171_41,P,no ifs ands or buts,cr,,0.0,8
+171_42,T,I want you to read the words on the page. I'm going to hold up and then do with the word say.,cmd,,0.0,7
+171_43,P,Close your eyes.,cr,,0.0,8
+171_44,T,"Thank you. take this paper in your right hand. Fold the paper once with both hands and put the paper down on your lap. On this piece of paper, write any complete sentence on that piece of paper for me. ",gc, ci,0.0,3
+171_45,P,.....,cr,,0.0,8
+171_46,T,"Thank you. Here's a drawing, please copy the drawing on the same paper. ",gc, ci,0.0,3
+171_47,P,....,cr,,0.0,8
+171_48,T,Thank you. That concludes this test on that. Thank you for your cooperation.,gc,,0.0,3
+171_49,P,Thank you,gc,,0.0,3
+175_0,T,"Hi Alice, how you doing today? ",gt,,0.0,2
+175_1,P,I'm doing okay.,gt,,0.0,2
+175_2,T,You make it here okay to the office?,irq,,0.0,1
+175_3,P,I did traffic wasn't too bad.,id,,0.0,0
+175_4,T,"Good, good. So I understand that you come to see me because you have a situation, how?",irq,,0.0,1
+175_5,P,"yeah, I'm just been a lot of anxiety right now my oldest child is moving out. And I know as a mom that that's the goal is to, you know, let them be independent and you start on their own but still a little concerned that it's gonna work out and that you know that he's in a good place and living where he should and kind of eat dinner and do those things that you worry about him doing. ",id,,-1.0,0
+175_6,T,Okay. I'll try to help you that I'm sure your your get started. Right?,gc,,0.0,3
+175_7,P,Absolutely. The sooner the better.,gc,,-1.0,3
+175_8,T,"Good. I want to make sure I go over a few disclosures about the counseling relationship before we get into assessment, which is the first stage. ",gc,,0.0,3
+175_9,P,Okay.,ack,,0.0,6
+175_10,T,"Right. We'll ask you a lot of questions. Okay, that's your past and what's going on now. And then after assessment, we'll move into counseling. So we come in roughly once a week. ",gc,,0.0,3
+175_11,P,Okay.,ack,,0.0,6
+175_12,T,But first I want to get through kind of a piece on confidentiality.,id,,0.0,0
+175_13,P,Okay. So like attorneys what you what you can do and not do.,irq,,0.0,1
+175_14,T,"We kind of I'm glad you brought that up, about attorneys. Attorneys and clients have confidentiality, and counselors and clients have confidentiality, but the two types are different. So I'll explain to you how it worked between you and I. But no, that is a little bit different than it works between the attorney and their client.",id,,0.0,0
+175_15,P,Okay. Now explain the differences to me.,cmd,,0.0,7
+175_16,T,"Absolutely. So, one thing about a casting lationship all this time you spend here, the notes they'll take in during the assessment and the progress notes later on. Because all of a chart with your name on it will be stored in a secure place. All that is confidential, and next to that word confidential as an astress. Right? There's exceptions. Okay. And what I want to explain to you are those exceptions to confidentiality, because confidentiality isn't absolute.",irq,,0.0,1
+175_17,P,"So there's times you might tell someone else something that I said,",id,,0.0,0
+175_18,T,Yes.,ack,,0.0,6
+175_19,P,Okay.,gc,,0.0,3
+175_20,T,"Yeah. But they're very specific situations that occur that permit that or mandate that. Okay, I want to review those with you before we move on. Okay. Does that make sense?",gc, yq,0.0,3
+175_21,P,Yeah. I'd like to know that before I tell you.,yna,,0.0,5
+175_22,T,"I agree. That's a good, good way to look at it. So the first exception to confidentiality is when you give me permission to release information that you've disclosed and interactions we've had during counseling This is actually fairly common. For example, do you have a primary care physician? ",gc, yq,0.0,3
+175_23,P,I do? Yes.,yna,,0.0,5
+175_24,T,"So depending on we talk about you may want him or her to know about discussions. So you may sign a release, that gives that physician the right to talk to me directly. ",gc,,0.0,3
+175_25,P,"That makes sense, ",gc,,0.0,3
+175_26,T,"right. Furthermore, your issues with are part of your concern with your son. So say and I don't necessarily foresee this but say, later on, as we work together, you want him to come in for a session just to talk about something right? You would have to sign release confidentiality, so we could be here and talk with me. ",gc,,0.0,3
+175_27,P,Okay.,gc,,0.0,3
+175_28,T,That makes sense?,ynq,,0.0,4
+175_29,P,That makes a lot of sense.,yna,,0.0,5
+175_30,T,"Okay. The other exceptions are insurance company. So when you fill out your screen packet insurance Insurance companies have access to like progress knows the assessment, anything on the chart and they're generally responsible this information I don't know of any instances where they're irresponsible with it. But I just think it's important that you know that anything I write in the chart anything in the chart itself technically the insurance company can ask for and periodically could review. Again, I've never seen in my career any difficulty with that, but as far as I know that information would be transmitted off site so to speak. And when this agency bills it would be transmitted your information be transmitted off site to the insurance company",gc, id,0.0,3
+175_31,P,so it goes automatically whatever progress made you have automatically go to the insurance company?,irq,,0.0,1
+175_32,T,"the progress notes, don't for standard billing, but information about the type of session we had length of the session. any of that and some other personal information about you to identify you would go to them also they know a service was provided. ",id,,0.0,0
+175_33,P,Okay.,ack,,0.0,6
+175_34,T,"Like I said, There They're generally very responsible information, large companies that have done this for a while, right,",gc,,0.0,3
+175_35,P,"taking all your medical stuff too. So they have,",gc,,0.0,3
+175_36,T,"they have access to different types of data. Another exception to confidentiality and again, I don't foresee necessarily a this happening, but I want to tell you about the limits of it is in the event that I feel that you're going to harm, or there's a high potential that you're gonna harm yourself or someone else. In that instance, I'm obligated to act. Now, we're gonna probably talk about a lot of different elements of your life through the next however many weeks were together. Okay? When, and if, and again, I don't predict this. You have some sort of suicidal ideation or you want to harm smell. So in the unlikely event that happens, I would only release information I have to release to protect you or the person that I'm worried about. So if you review a lie like deep, dark secrets, and then you tell me that you want to go harm a relative of yours, right? I have a duty to warn that relative of what you plan on doing, where you are at the moment, what threats you've made, but I'm certainly not going to tell them about your deepest, darkest secrets to be revealed. Okay, unless they're directly relevant to protecting. Okay, it's very unlikely they would be,",gc, id,0.0,3
+175_37,P,"I don't know why I not hurt anybody, but I should know this",gc,,-1.0,3
+175_38,T,"I know. Yeah, but I just want to let you know that these know this confidentiality information I release is limited to just what I need to release. ",gc,,0.0,3
+175_39,P,Okay,ack,,0.0,6
+175_40,T,"Similarly, if you have any type of suicide ideation, and I was had to contact somebody come pick you up like law enforcement. I would only tell them I knew tell them from the get to the hospital and get you in a safe environment. ",id,,0.0,0
+175_41,P,Okay,ack,,0.0,6
+175_42,T,"This I want to take an opportunity Talking about the suicide ideation. So you know that just because you have suicidal ideation, like thoughts, a lot of people think about suicide from time to time, or even homicidal ideation or thoughts, you're going to harm someone by not saying kill, but it's harm does not by any means automatically me, I'm gonna call police think of it as something that opens a discussion certainly about your safety and someone else's safety. But that's not, you know, we don't go automatically from there. You know, that is, if you have a thought of suicide to the hospital. There's a discussion and many, most the vast majority, actually of people that have a suicide ideation do not have any intent or plan to commit suicide. ",gc, id,0.0,3
+175_43,P,"So you say, so, if someone's thinking about it, you are not just gonna call the police and send you to the hospital. You're gonna try to get to the bottom of it.",irq,,0.0,1
+175_44,T,Absolutely.,id,,0.0,0
+175_45,P,Okay.,ack,,0.0,6
+175_46,T,"Yeah. That, you know, I responsibility to make sure you're safe and I feel like I can do that. If we talk to Through an issue and you don't have any, any reason to believe you're going to harm yourself, but just had a suicidal thought, okay, okay, that's a lot different than you, you came in to me and told me about detail plan, and you really seem like you're going to do it, then I'd be a lot more worried. ",id,,0.0,0
+175_47,P,Okay That makes sense. Okay.,ack,,0.0,6
+175_48,T,So that exception to confidentiality is really used in the most extreme cases of suicidal or homicidal ideation. Another exception in the state that will let you know about is if I have any reason to believe that a child or an elderly person is being abused. I have to report it was called a mandated reporter.,id,,0.0,0
+175_49,P,Okay.,ack,,0.0,6
+175_50,T,"Now I'm sure that you're not abusing anyone or elderly people. But I want to explain how this exception works because it's a little more far reaching you may think. So say that you come in and you discuss with me a neighbor, right, that seemingly has nothing to do with your treatment, but just kidding. I mentioned that something's going on that discussion leads me to believe that your neighbor's abusing their child. I still have to report that, even though it has really nothing to do with you directly. It's something you just told me in passing. I'd have to act on it. Again, I would only release the information necessary to protect a child safety. Does that make sense?",id, yq,0.0,0
+175_51,P,It Does. Yes. ,yna,,0.0,5
+175_52,T,"So no matter how I find out about it, or who it is, I have to act on that.",id,,0.0,0
+175_53,P,Okay.,ack,,0.0,6
+175_54,T,"And then the last exception I want to review is, again, as with many of these very unlikely, but if for some reason you're involved in any type of civil or criminal litigation, and a judge orders me to testify. I have to testify. I can tell you this happens. Very Rarely, but it can happen. And I can and will try not to disclose me, I'll ask the judge to not disclose if you don't want me to, but ultimately a judge can order me and I have to. So in the end, it's up to the judge. ",id,,0.0,0
+175_55,P,Okay.,ack,,0.0,6
+175_56,T,"So, again, most of these pretty unlikely, yeah. But I'd rather have all the information going forward so you don't have any concerns about where the information you're revealing or talking about where the information is going. Okay. Do you have any questions about that?",id,,0.0,0
+175_57,P,seems pretty clear.,ack,,0.0,6
+175_58,T,"Okay. Well, I appreciate you sitting through that. Talk on confidentiality. So we're gonna get started now with the assessment. ",gc,,0.0,3
+175_59,P,Okay.,gc,,0.0,3
+204_0,T,"Hi Miss Clark, My name is Alan Lime. I'm a social worker at the Family Health Center. Dr. Steele asked me if I would spend some time with you today. I'm really glad that you're here. I'm just curious as to why he would send you to me.",gt,irq,,2
+204_1,P,"Well, I came to see Dr. Seal last week because of increasing stress and anxiety, that's kind of getting the best of me. And in the course of my appointment with him, he was asking how I was dealing with that stress. And I mentioned that my one or two glasses of wine a few nights a week is turning into more frequent and maybe three or four on some nights and he had some concerns about that and, and felt like maybe you could help me with stress or something.",gt,id,,2
+204_2,T,"Yeah. So he, he actually see me because you went to him for increased stress. And he's concerned that your alcohol consumption may be a part of that increase And prior to prescribing anything, you want to make sure that you at least had someone to talk to that",gc,,,3
+204_3,P,I suppose.,gc,,,3
+204_4,T,Okay. So you filled in one of the Pink Sheets and I take a look at that.,irq,,,1
+204_5,P,He told me to fill that out and bring it with me.,id,,,0
+204_6,T,"Okay, thank you. So, you say here that you have four or more drinks in one week, you mentioned that you may be increasing that a little bit as well. And that you have one or two drinks in one setting ",irq,,,1
+204_7,P,"typically, yeah. ",id,,,0
+204_8,T,And maybe monthly you have more than that. What what's what kind of drinks do you have? What do you do when you typically drink,irq,,,1
+204_9,P,"wine with my meals? You know, again, one or two, typically and more frequently, three or four. My stress is increased.",id,,,0
+204_10,T,"So it's time to increase your strength a little more. Well, based on what you put here, you get it gives you six points on this scale scale ranging from zero to 46 points will put you in what we would consider an at risk zone. So if it's okay with you to talk a little bit about that,",id,,,0
+204_11,P,okay,ack,,,6
+204_12,T,"okay. So that was sunset run zero to 40. It's not a sort of super high risk, but it certainly could be a risk for maybe increasing stress might be some physical ailments related to alcohol as well could could start to show up if you were to increase your drinking from there, or even stay there. This is a typical standard drink size over here, I'm not sure whether that fits your description of a glass of wine or not,",irq,,,1
+204_13,P,I feel the glass up so maybe a little more than that,id,,,0
+204_14,T,"maybe the little space it's upset, perhaps a drink drink and a half each one. So that also increased a little bit more. So perhaps maybe drinking more than you indicated on here. And for women, healthy woman your age, no more than three drinks in one setting is considered to be low or no risk and one seven in one week, seven total in total a week and what you say here is that even on this sheet, you're perhaps already drinking more than that. So what do you make of all that?",irq,,,1
+204_15,P,"That news to me, you know, I thought red wine with your meals is supposed to be healthy. You know, no more than seven in a week? That seems kind of prohibitive?",id,,,0
+204_16,T,"Yeah, it seems seems a little less than perhaps you've been drinking or what you consider to be healthy drinking. And certainly there's there's conflicting information out there about what's healthy and what's not healthy. Imagine the increased stress work because we're concerned doctor seal as your stress increases, and if you were to describe you anything, maybe some interaction between the two, that would also be a concern for him. I would, I would think, so if you would, what is it that you like about alcohol?",irq,,,1
+204_17,P,"Well, you know, it does, at least in the moment, temporarily reduce my stress. And I you know, like a good glass of wine. I don't don't drink the cheap stuff. I like the expensive.",id,,,0
+204_18,T,"See, like the taste of it. And it does help to lower the stress, even if it's just for the fun of me drinking. What's not so good things about alcohol for you.",irq,,,1
+204_19,P,"Um, well, you know, the nights that maybe I have a couple more glasses than I should I wake up feeling kinda yaak and, of course, part of my stress is finances. And I mentioned I like the good stuff. And so if I'm drinking more than I'm increasing my financial burden,",yna,cd,,5
+204_20,T,your financial stress may be increased by the fact that you're drinking.,id,,,0
+204_21,P,"Yeah, kind of defeating the purpose they're",gc,,,3
+204_22,T," the drink introduce stress and increasing stress at the same time. So on the one hand, it low is it on the other hand, it's increasing kind of the seesaw teeter totter effect. What do you make of that, given that on one hand, it lowers on the other hand, it increases and and now it's increasing even more?",irq,,,1
+204_23,P,And maybe I need to find some other way to deal with my stress. Yeah.,id,,,0
+204_24,T,Imagine investment thoughts so that what have you thought of trying?,irq,,,1
+204_25,P,"Well, I've exercised in the past and that helps. Right now. My schedule is kind of out of whack and I just really don't know what to do. That's why I came to see Dr. seal. I thought maybe he can prescribe me something that would help. You know, when I'm feeling overwhelmed,",id,,,0
+204_26,T,"And he may be able to I'm not saying that he cannot just imagine that he's concerned that if you continue to drink, the level that you are drinking, that whatever he prescribes you, there may be an interaction with it to mention that he's concerned. I'm not completely sure. So you've had some success in the past of changing behaviors. And if you were to decide to make any changes here that sounds like you could draw upon that to make those changes. How important would it be for you on a scale of zero to 10? I have a low visual hero that if zero is not important, ten is very important to do something about your drinking wine.",irq,,,1
+204_27,P,"Well, I mean, if if it means that it's increasing my stress and or he's not going to prescribe me anything because of my drinking, then it's fairly important, maybe about seven. ",id,,,0
+204_28,T,It's it's pretty up there. What do you choose a seven out of five or four?,irq,,,1
+204_29,P,"Well, again, I got to get things under control. You know, My kids are dependent on me and I've got to go to work to help ease this financial stress. And so, you know, all those responsibilities",id,,,0
+204_30,T,there's a lot riding on your decision on what to do with this. What if anything would bring up to an eight or nine on that scale?,irq,,,1
+204_31,P,"Well, the you know, the risk that you mentioned about the drug interaction, I certainly can't afford to, you know, have any more stress.  So, yeah, ",id,,,0
+204_32,T,so so you you choose to lower your stress rather than increase it. And if lowering your drinking would have that effect that something be willing to do.,ynq,,,4
+204_33,P,hmmm,ack,,,6
+204_34,T,How confident are you that you could do something about your drinking?,irq,,,1
+204_35,P,"I'm pretty confident and you know, probably about a seven or an eight ",id,,,0
+204_36,T,"Okay, so it's pretty high up there again, and what if, what if anything, would you choose to do would it be to cut down would it be to quit? I'm just curious about that",irq,,,1
+204_37,P,"I you know, I like a lot A glass of wine, I don't want to quit altogether, I'd be willing to try cutting that. But now if it's going to, if Dr. Seal would agree to prescribe me something for the anxiety, and it meant that I had to not drink at all, I'd be willing to do that at least for a period of time.",id,,,0
+204_38,T,"So you'd be willing to stop altogether. That's what was indicated by the physician. Okay. So based on that, how ready are you to do anything right now, whether it's to cut back whether it's to quit?",irq,,,1
+204_39,P,"Well, again, you know, if if I can get something to help me manage if maybe I can find some other way to deal with the stress, then then you know, I be pretty ready. Again, maybe about an on that scale, maybe an eight.",id,,,0
+204_40,T,"Okay, so that's, that's pretty hot there as well. It sounds as though you're pretty motivated to do something about this right now, given any responsibilities given your children learning at this point. And just on lowering anxiety, in general, it sounds and that's one of your goals as well. Well, I'm pretty confident Once you decide to do whatever it is you decide to do, you'll be able to follow through with it. Based on your experience in the past of making behavior changes. I mentioned some things that you can draw upon. What's one thing that you could do? Imagine you thought of some things might help to lower your stress.",irq,,,1
+204_41,P,"Oh, I you know that the exercise but again, that's that's kind of difficult to fit in right now. I'm hoping that Dr. Seal will prescribe something for me to take when I'm feeling particularly overwhelmed and maybe just having somebody to talk to to bounce some things off of ",id,,,0
+204_42,T,"one of the things we can offer here is for you to come in and talk to one of our behavioral health specialists may be able to help you talk talk through this this area of your life, this area of increased stress and sound like responsibility there and we can make an appointment for you for like before you leave today to talk to somebody",id,,,0
+204_43,P,That would be nice,ack,,,6
+204_44,T,"that also has some information here if you're interested, some pamphlet on alcohol and and how what helps limits on how it may be affected by medications that you take as well. And I wish you lots of luck. It sounds as though you're really committed to making this shift in this change. And I imagine doctors still want to follow up with you and see how you do with your with your change within a few weeks.",id,,,0
+204_45,P,Okay,ack,,,6
+204_46,T,"Again, I look forward to speaking to you in the future.",gt,,,2
+204_47,P,"All right, thank you very much.",gt,,,2
+206_0,T,"Yeah, okay. All right. What was your relationship with your teachers? And maybe those that some of the peers that you had at the school? I mean, was there any?",irq,,,1
+206_1,P,"No, I usually I've been dealing with the teachers. Honestly, I was always the class clown. So I'm usually getting kicked out, getting detention, you know, so I didn't really get along with the teachers trying to teach class right stuff. ",id,,,0
+206_2,T,Okay. So overall today are you pursuing or do you want to further your education,irq,,,1
+206_3,P,"Yeah, I'm trying to get in college.",id,,,0
+206_4,T,"Right. Yeah. Great. So you're looking into for year junior college,",irq,,,1
+206_5,P,"yeah, a dream college.",id,,,0
+206_6,T,"And what would be like, give me a little bit during the time that you were in school. Did you have a job heavy work?",irq,,,1
+206_7,P,"I was working at cost wise, It's a restaurant Through the school, okay, and it was not like a job program, right, package of knives and forks and wrapped in salt and pepper and would send them over to the school. I mean to the restaurant. ",id,,,0
+206_8,T,You sent over to the restaurant.,ynq,,,4
+206_9,P,Yeah.,ack,,,6
+206_10,T,"Okay. So you would prep everything, you know, all the tensile Ready? ",ynq,,,4
+206_11,P,Yeah,ack,,,6
+206_12,T,"Okay. Now, when you were working, how did that make you feel when you're working?",irq,,,1
+206_13,P,"You know, I got boring at times, obviously And because the Patriots were also really small. ",id,,,0
+206_14,T,but it was the start?,ynq,,,4
+206_15,P,"Yeah, it was a start. ",ack,,,6
+206_16,T,Right. And so how did it make you feel good? Because you work for something And then the finished product was your paycheck.,ynq,,,4
+206_17,P,Yeah.,ack,,,6
+206_18,T,"So if you want something in life, you pretty much have to work for it work for a car or not You have to work at a young age. How old were you when you started working?",irq,,,1
+206_19,P,10 years old,id,,,0
+206_20,T,"10 years old and then you started working and As a program for the school, so you know, you've known at a young age that it's going to take hard work,",gc,,,3
+206_21,P,yeah to achieve something to achieve something.,gc,,,3
+206_22,T,"Now, what about your dream job? What would be if tomorrow you could say, I'm gonna have this person tomorrow? Or this is my profession tomorrow? What would be your dream job? ",irq,,,1
+206_23,P,A pilot,id,,,0
+206_24,T,Wow.  And when what was what's your reasoning behind that?,irq,,,1
+206_25,P,I love airplanes I used to make smaller airplane,id,,,0
+206_26,T,Tell me more about that. What would you do in your dream job?,irq,,,1
+206_27,P,"I just want to fly by being in the end, I like going fast.",id,,,0
+206_28,T,"Fast in the air and being above Yeah, I think being able to see different view. So pilot Have you looked into what it would take to become a pilot.",gc,,,3
+206_29,P,"You know, the only struggle with thatI dont have to drink, I don't think this will work out",gc,,,3
+206_30,T,What is you next dream job?,irq,,,1
+206_31,P,A cop.,id,,,0
+206_32,T,"Police Officer, have you looked into that what it takes?",irq,,,1
+206_33,P,yeah trying to get back into this cadet program I was doing for about three weeks ago was doing it but was too far. So to kind of really go forward in my area,id,,,0
+206_34,T,"right maybe that's something we can discuss to help you find the cadet program close fine. We're able to give you a, you know, some goals to set to get you in the program at that. But let's look at you know, back, let's back up a little bit to the marijuana. Because you and I know being in law enforcement, you know, marijuana and being a cop, pretty much ",gc,,,3
+206_35,P,"Yeah, yeah. ",ack,,,6
+206_36,T,And you would have to what would you have to do?,irq,,,1
+206_37,P,"Let it go, I have to let it go. ",id,,,0
+206_38,T,"So, what we want to do while you're here, you know, we want to help you here develop a treatment plan and treatment model where you can pursue some realistic goals. We want to set some goals for you. Also, what about your medical History tongue a little bit about your medical history. Have you ever been in the hospital? Has anything ever happened to a broken bone",irq,,,1
+206_39,P,I had surgery on my cybereason,id,,,0
+206_40,T,"What about in your family? Is there any diseases in your family and you want to know suffer for any illnesses, ailments. Okay. And as far as medical attention is there anyone that needs medical that needed medical attention in the past maybe someone on meds in your family psychological health? Was there anyone maybe that has gone to therapy that has been in therapy Your family and family member",irq,,,1
+206_41,P,No.,yna,,,5
+206_42,T,"And what we want to do, what I want to do to help you with this verse is one want to develop a treatment plan to help you with the marijuana use. We want to be able to look at your support system, you know who's in your life right now? What are your friends that you smoke marijuana with? What type of people are they? Would this be a good fit for you? But our whole goal is to start you off with small steps. So today, you're using marijuana how many times a day. So you pretty much said you use it every day. ",ynq,,,4
+206_43,P,Yeah.,ack,,,6
+206_44,T,But how many times?,irq,,,1
+206_45,P,3-4 times,id,,,0
+206_46,T,Do you wake up and you do?,irq,,,1
+206_47,P,"yeah. It's not my morning routine. Go ahead and do it. And then usually around noon time I'll do it again and then towards five o'clock. I'll do it again at nighttime in Fargo. They'll do Again, right",id,,,0
+206_48,T,so one of maybe one of the realistic goals is you're okay you know we can we can narrow down maybe the relationship see which of your friends right now today? How many of them smoke,irq,,,1
+206_49,P,about six seven,id,,,0
+206_50,T,Yeah so maybe a realistic short term goal is to begin to see which friends to hang out with you know and then also your mom man either way she,gc,,,3
+206_51,P,"She told me before you fall into the wrong crowd and fall into something just she pretty much said that this if I keep this up is gonna get me into something I don't want to get into right now jail time round because we makes you do things that you shouldn't be doing for other things legal, right so,",gc,,,3
+206_52,T,"so definitely we want to look at your whole peer relationships who your friends are We also want to look at your your time right now. So, you mentioned earlier that you were working. Are you working today? ",ynq,id,,4
+206_53,P,No.,yna,,,5
+206_54,T,"Okay, so maybe that's another thing a realistic goal that we need to look at, and maybe help you pursue is it as a job? Maybe because the idle time sometimes can trigger events, you know, where you begin to want to use marijuana, and then we can identify some of the emotions that you're feeling. Let's go over that maybe briefly. Before you get before you smoke marijuana, is there a feeling that you have that says, hey, you depress, so we can look at the depression and see how we can treat that. What else? What are some of the other feelings that you see?",irq,,,1
+206_55,P,"so angry, You know",id,,,0
+206_56,T,what you think?,irq,,,1
+206_57,P,"Be a bit boring, but my girlfriend So it's kind of a start. So it still bothers me as much as I'm trying to ignore it. Instead, it still bothers me. ",id,,,0
+206_58,T,Right? There's a certain days that maybe perhaps you remember or events,ack,od,,6
+206_59,P,Like Thanksgiving and Christmas and holidays and things like that.,gc,,,3
+206_60,T,That's when you become angry.,irq,,,1
+206_61,P,Yes.,ack,,,6
+206_62,T,How you were brought up?,irq,,,1
+206_63,P,"Yeah its like that I don't appreciate my foster parents. Right? But just with Billy, I've been born with my biological right.",id,,,0
+206_64,T,"So we want to we want to maybe will equip you with some coping skills, how to cope with those things, how to prepare you maybe for the holidays, maybe there's a way we can, you know, we can begin to look at that. During the holidays. This is these are the emotions I feel. So we identify those emotions and we'll be able to, you know, take care of that we'll be able to prepare you prior to you are you falling back into the trap of going out and using marijuana Maybe during Christmas? Do you feel the same way during Christmas?",ynq,id,,4
+206_65,P,Yeah,ack,,,6
+206_66,T,"Maybe even your birthday, Father's Day, Mother's Day, these are all things that we can kind of get you ready for. Because once again, it's gonna take small steps, realistic goals. And then what we want to do after that the real estate goals is just get you ready, you know, for long term goal. But you know what, Curtis? I'm glad you came into my office. It was great meeting you. I look forward to working with you. ",id,,,0
+206_67,P,All right.,ack,,,6
+206_68,T,Is there any other questions that you may have for me? Is there anything?,irq,,,1
+206_69,P,How many times a week Am I going to be allowed to come?,irq,,,1
+206_70,T,"What Well, we can do we'll set you up with a treatment plan. And then I'd like to meet at least have two contacts with you your week. We can go over that. And then maybe during one of the context, we can help you with one, help you with a job. Okay? And then identifying some of the emotions. And then maybe we can get the whole marijuana use, we can begin to kind of taper it down instead of seven, you know, everyday. Yeah, we'll begin to see how we can take with that. Okay, we're down but again, I'm glad that you came. It was a pleasure meeting you and we'll be in touch and we'll be able to do it again.",id,,,0
+206_71,P,Okay. All right.,gt,,,2
+27_0,T,"Okay, I want to thank you for your participation so far in this intake. But I want to move to another section of intake, specifically your family history if that's okay with you. So I'm going to be asking you various questions about your relatives. Okay, ",gc,,,3
+27_1,P,yeah.,gc,,,3
+27_2,T,Are you adopted?,ynq,,,4
+27_3,P,No.,yna,,,5
+27_4,T,All right. Are your parents married?,ynq,,,4
+27_5,P,They're not married.,yna,,,5
+27_6,T,She's married four times.,ynq,,,4
+27_7,P,Yeah.,ack,,,6
+27_8,T,What age were you when your parents divorced?,irq,,,1
+27_9,P,I was about 16.,id,,,0
+27_10,T,"And then your father you said, remarried. He did. And how long after the divorce? ",irq,,,1
+27_11,P,I think it was about 18.,id,,,0
+27_12,T,You're about 18. And then your mother remarried and was divorced a few times your sign?,irq,,,1
+27_13,P,"Well, yeah, I mean, it was pretty much right after they got divorced. She married some guy. I don't even know he was nice guy, but it was like six months after pretty much like real fast. Um, and then that didn't last very long. Forgive me, I have to remember like how long they were together because there's so many. But I believe that they were only together for not even a year. And then she kind of had some time where she just was dating But it was numerous people. And then she met somebody in her a meeting. And they married. That lasted, that they probably got married.",id,,,0
+27_14,T,"So well, she was married to your father.",ynq,,,4
+27_15,P,Yeah.,ack,,,6
+27_16,T,"And then, very quickly after that, you said and then she met some a Meeting.",irq,,,1
+27_17,P,"Yes, that's a third and then this one would be Oh, yeah, the fourth the fourth. Okay.",id,,,0
+27_18,T,Yeah. She married now.,ynq,,,4
+27_19,P,"No, no. Now she's, I don't know, just dating or whatever she was",yna,,,5
+27_20,T,how long did the last marriage so that,irq,,,1
+27_21,P,was three years that was the longest.,id,,,0
+27_22,T,So how's your relationship with your father?,irq,,,1
+27_23,P,"Um, it's good, I guess. I mean,",id,,,0
+27_24,T,"All right, how about your relationship with your mother?",irq,,,1
+27_25,P,"Um, it's just it's honestly there's no other way to describe it. It's just chaotic. I mean, she's chaotic. So she's all over the place and it's just Hard to capture on a good day. And when you do, it's just you know, it's kind of surface our relationship.",id,,,0
+27_26,T,"Alright, so who? Who raised you?",irq,,,1
+27_27,P,"My parents raised me? Yeah, yeah. I mean, they were good parents, I guess, according to my standards, because my mom was just always a mess. So I guess they both did the best that they could, given some circumstances. So",id,,,0
+27_28,T,"do you think the way they're raised has an impact on who you are now in terms of,",irq,,,1
+27_29,P,"um, I think so. Yeah, definitely.",id,,,0
+27_30,T,"tough memories in Yeah,",ynq,,,4
+27_31,P,"yeah, absolutely. ",ack,,,6
+27_32,T,Can you tell me about your siblings?,irq,,,1
+27_33,P,I do. I do. I have two siblings. Okay.,id,,,0
+27_34,T,So what's your relationship with with them now? What's it like now?,irq,,,1
+27_35,P,"Um, it's okay. You know, I guess. I mean,",id,,,0
+27_36,T,I didn't mention that. Everybody went their separate way.,irq,,,1
+27_37,P,"Yeah. I don't really see them quite honestly. So If I do see them and maybe it's like if I show up at a at a family party once every five years, but so I think to me, that's okay. That's right. Yeah.",id,,,0
+27_38,T,You're satisfied with your relationship with them?,irq,,,1
+27_39,P,"I think so. I mean, you know, it's not my fault that they won't accept who I am.",id,,,0
+27_40,T,"Are you aware of any medical conditions that like your mother and father might have or your grandparents,",irq,,,1
+27_41,P,"like heart disease or anything like back in the medical? My grandpa had like heart disease. My grandfather had cancer but he beat colon cancer was in like the first stage but he was fine after. But as far as my parents, they don't have any medical issues that I know of.",id,,,0
+27_42,T,"All right, how about kind of same question except for mental health conditions.",irq,,,1
+27_43,P,I'm just crazy. Like my mom was crazy and she was just completely,id,,,0
+27_44,T,You have any formal diagnosis she had her um,irq,,,1
+27_45,P,"she uses magnetic like I guess like bipolar, but we she never really got like a definitive label as dipole bipolar and like therapy or anything like that. But",id,,,0
+27_46,T,"you know, symptoms of bipolar and anxiety. Yeah.",irq,,,1
+27_47,P,"No, that's just my mom with her. You know obsessiveness and she'd get depressed after But as far as any other siblings No, no.",id,,,0
+27_48,T,Do you have any special family traditions?,irq,,,1
+27_49,P,"I mean, we would go on family vacations. When I was a kid. We were constantly staying at the best hotels and stuff like that. Because a mom, you know, would shop around, she actually would Book Three hotels, and just decide which one she liked better when we got there. I don't, I don't know. But anyway, we would do that we would go on vacations together, we would always go down to the beach. So that was really our family tradition as far as in like holidays. We did when we were younger. We would have like our family over for Christmas and stuff like that. But",id,,,0
+27_50,T,"can you tell me about holidays, like were the most important holidays to your family.",irq,,,1
+27_51,P,"I Christmas was yester During the most important Thanksgiving, ",id,,,0
+27_52,T,how did you celebrate those holidays?,irq,,,1
+27_53,P,"Sometimes we would go to my cousin's house on my dad's side, and Christmas would be at my parents house and then Easter woods. It was just very back back and forth between my cousins or my parents, whoever wanted to happen.",id,,,0
+27_54,T,Can you tell me about your extended family?,irq,,,1
+27_55,P,"my extended family? Well, on my dad's side, my uncle, he's super successful. And he's a cool guy, you know, I don't really see him now. But when I was a kid, I did. But now I don't see him at all. Honestly, I don't really see anybody at all. But um, yeah, and on my mom's side, she has a sister. And she's like crazy, but she's not as crazy as my mom. But she has she has two kids. And she's actually still married to her to her husband. They were actually highschool sweethearts, so I don't have where my mom came from but and I hadn't seen her probably since I graduated high school. And, you know, she associates my mom and they talk amongst themselves so I don't really have a relationship with her either. So",id,,,0
+27_56,T,"Alright, so not not many active relationships there. Your family history. It sounds like so.",irq,,,1
+27_57,P,"Well, yeah, there's not many now.",id,,,0
+27_58,T,Is there anything else you want to tell me about your family history?,irq,,,1
+27_59,P,"Um, my mom would drink sometimes when I was growing up, but that's what my mom is really friendly to me when she would drink And yeah, she would drink. I don't know if that's, you know, she was considered an alcoholic but she would drink often. And I think just to come off of her shopping a lot she would drink or vice versa. Sometimes she would drink or shopping or just to calm down, she would drink and sometimes in our drinking habits, she would actually be nice to me.",id,,,0
+27_60,T,And they also have something.,ynq,,,4
+27_61,P,Definitely.,ack,,,6
+48_0,T,"Hi, Miss Watson, see you again. See, I'm glad you came back in. I've got the results now of the blood work that we did after your checkup. ",gt,id,,2
+48_1,P,Okay.,ack,,,6
+48_2,T,And before we go over any of that I really wanted to find out from you how things are going and what you're concerned about.,irq,,,1
+48_3,P,"Well, I mean, I'm, I'm curious about them because I haven't been very well, right. I haven't been very, very well. I've been last week I threw up some blood. ",id,,,0
+48_4,T,Is that the first time that's happened?,irq,,,1
+48_5,P,"Yeah, the first time. I mean, I threw up blood last weekend then. Again, yesterday. So there's something bad going on. I know there's something bad going ",id,,,0
+48_6,T,What do you think is going,irq,,,1
+48_7,P,what cancer right I think I probably have cancer i'm not i'm not doing very well I just look headaches and I was just,id,,,0
+48_8,T,"let's try to figure some of this out. Okay. When you said you were throwing up blubbery, throwing up bright red blood and was it like little spots, big spots?",irq,,,1
+48_9,P,"It was a it was almost filling a toilet wasn't that much. I wasn't like that it was enough that I could see it in the toilet, and I was throwing up.",id,,,0
+48_10,T,And did did you have any other symptoms?,irq,,,1
+48_11,P,"Well, I was feeling sick. So and I had headaches and I, you know, I've got,",id,,,0
+48_12,T,what time of day was this? ,irq,,,1
+48_13,P,I have headaches a lot,id,,,0
+48_14,T,"throughout the day, throwing up the blood",irq,,,1
+48_15,P,"that was in the morning and then again,",id,,,0
+48_16,P,"the other time it was sort of later in the day, but I",id,,,0
+48_17,P,"you know, I also wake up in the middle of the night and I'm just covered in sweat. I know that's another cancer thing.",id,,,0
+48_18,T,"Look, I can understand why you're worried. All right, because throwing up Blood is scary, and waking up soaked in sweat in the middle of the night. That doesn't feel right either. Let me ask you a couple of questions that might help explain things. When did you have your last drink?",gc,irq,,3
+48_19,P,"Actually, just before I came here,",id,,,0
+48_20,T,"okay, so that was earlier this morning. All right, what did you have?",irq,,,1
+48_21,P,"I had orange juice and I had some vodka in it. It's the only thing actually that like steadies me enough to get out the door. I don't ever go out that often. But right now,",id,,,0
+48_22,T,so tell me how it helps you.,irq,,,1
+48_23,P,"It's just studies me studies me like I'm, you know, I'm shaking all the time. I'm just like,",id,,,0
+48_24,T,"So over the course of the day, in order to study yourself in order to feel calmer. How many drinks do you end up having?",irq,,,1
+48_25,P,"Five? Hmm, maybe",id,,,0
+48_26,T,singles or doubles?,irq,,,1
+48_27,P,I don't measure,id,,,0
+48_28,T,right. So is it mainly vodka,gc,,,3
+48_29,P,"Sometimes if I'm feeling really like my stomach is really upset, I'll drink cider. So that's its cider or vodka because",gc,,,3
+48_30,T,"and you ever get that feeling in the morning that some people describe that they wake up feeling so edgy. They need a drink to calm down. Yeah. It's like the only thing that works for me. Anything that works, too. So in the past week, do you think you've been drinking more?",irq,,,1
+48_31,P,In the last week? Not so much in the last couple of weeks maybe?,irq,,,1
+48_32,T,"Hasn't been daily. Oh, yeah. Right. So the longest you've gone without a drink in the last month would be how long?",id,,,0
+48_33,P,"I don't know. Actually. I mean, I don't know. I've got you know, I've got a lot going on. Right. Yeah. So my, my sister is in Boston, she's got cancer and I know like I should be calling her and I can't do that. My mom is really sick and she's horrible, and I'm the only one that Who can go see her? And I go see my mother and she just yells and screams at me and she's got this email and it's just",id,,,0
+48_34,T,"so for all of those things, the alcohol helps.",ynq,,,4
+48_35,P,"Yeah, yeah.",ack,,,6
+48_36,T,"Yeah. And does it ever happen sort of by the end of the day, that you have trouble the next day remembering what happened?",irq,,,1
+48_37,P,"I guess. I mean, I, you know, my days don't differ that much. But I, you know, I'll fall asleep in front of television and then I'm not seeing lots of people so I you know, there's not big events in my life that I would be remembering. I just, you know, especially now that I'm feeling so not well, that I",id,,,0
+48_38,P,"yeah, there's not much that I would have to remember",id,,,0
+48_39,T,having that. Have you tried it all to cut down on your drinking?,ynq,,,4
+48_40,P,I did. I did.,ack,,,6
+48_41,P,"You know, I had a boyfriend who",id,,,0
+48_42,P,"you know, was Sort of casual coming over and, and he, he basically said he couldn't be with me anymore because I drink too much. And so I tried. I tried. I was like, Well, yeah, and then he left. So who cares, right? I mean, right?",id,,,0
+48_43,T,You find yourself feeling feeling guilty about the alcohol.,ynq,,,4
+48_44,P,"I feel guilty about my sister, right? I feel guilty that I can't like I just can't. I can't even call her like I can't.",id,,,0
+48_45,P,Right. So,id,,,0
+48_46,P,"if I, if I could pull it together than I could,",id,,,0
+48_47,T,"because what I understand from what you're telling me is that the drinking helps meet a certain need for you, in terms of trying to hold things together with all this stuff going on, and meets a need in terms of trying to keep you calmer. But at the same time, it's getting you into trouble. It's getting into trouble in terms of relationships, but it's also the most likely act explanation for why you've been throwing up blood isn't why the lab results that I've got are consistent with an amount of alcohol that's too much for your body to handle. Really, really, and that means, ideally, that we're going to work together to find a way to do something about it.",gc,,,3
+67_0,T,"sure you understand you've been having some symptoms which have been bothering you, but can you tell me what you think's going on?",irq,,,1
+67_1,P,"Yeah, I've been feeling really low and I think I might be depressed. ",id,,,0
+67_2,T,You think you might be depressed?,irq,,,1
+67_3,T,Have you ever felt this way in the past?,irq,,,1
+67_4,P,I mean,id,,,0
+67_5,P,"years ago I you know, felt had some of these similar things. But I didn't really think about it much and I mean, it's gone on for like, I've been feeling this way for like a month. And, you know, I I think something's wrong.",id,,,0
+67_6,T,"having any feelings of sad sadness, hopelessness?",ynq,,,4
+67_7,P,"Yeah,",ack,,,6
+67_8,T,yeah?,irq,,,1
+67_9,P,Yeah. I haven't been able to sleep.,id,,,0
+67_10,T,trouble sleeping?,irq,,,1
+67_11,P,This has been going on for a month.,id,,,0
+67_12,P,Yeah,gc,,,3
+67_13,T,Have you noticed a change in your ability to experience fun or pleasure?,irq,,,1
+67_14,P,"I haven't really thought about it. But I mean, I still have fun sometimes.",id,,,0
+67_15,P,I just noticed that most of my,gc,,,3
+67_16,T,"most time you're sad, but you still have fun. Have you lost an interest in pursuing things that are fun?",irq,,,1
+67_17,P,"No, I mean, I still try, you know, you know, to distract myself. Like if I noticed that I'm like, just feeling really low and or like, even if I can't sleep At night, like I'll do go do something that I like doing. You know how to pass the time?",yna,id,,5
+67_18,T,Any change in your appetite or weight in the last couple weeks?,irq,,,1
+67_19,P,"Yeah, I mean, I haven't really been eating that much. And I've actually lost a few pounds. Yes, three pounds. Yeah.",ack,id,,6
+67_20,T,And you mentioned the sleep disturbance not been sleeping as much as you'd like to?,irq,,,1
+67_21,P,"Correct. It's really hard for me to fall asleep. And sometimes I'll just lie there for hours at night and it's, you know, awful focused, and I'm tired all day, because I didn't sleep at night. And when I get home and it's time for bed again, I still can't fall asleep.",id,,,0
+67_22,T,So that's been affecting your energy level?,ynq,,,4
+67_23,P,Yeah.,ack,,,6
+67_24,T,Do you feel restless or the opposite kind of slowed down and having either one of those feelings.,irq,,,1
+67_25,P,"No, not really like that",yna,id,,5
+67_26,T,have been having any feelings of worthlessness?,ynq,,,4
+67_27,P,No.,yna,,,5
+67_28,T,like that?,irq,,,1
+67_29,P,"no, I mean, like not really no, like, I don't feel worthless. I just you know, I just I'm still sad. I don't know why I'm sad. ",id,,,0
+67_30,T,How about your concentration level any changes there?,irq,,,1
+67_31,P,"Yeah, it's it's hard to concentrate at work and, and in general even at home because I just am so tired. not sleeping and tonight I just get distracted by like, you know, like, I'll be over, come with emotion and I out of nowhere, like it's hard for me to pay attention to what I'm doing. If I'm getting distracted by those thoughts.",id,,,0
+67_32,T,Have you been having any thoughts related to death or dying?,ynq,,,4
+67_33,P,Nothing like that. No.,yna,,,5
+67_34,T,"So these symptoms you've been describing, have been causing limitations in your functioning in what areas",irq,,,1
+67_35,P,what work,irq,,,1
+67_36,P,at home to,id,,,0
+67_37,P," I want to play with my cat I usually like my cat for like an hour every night, just because I'm at work all day but I haven't I've been having trouble like even doing that. Yeah, so I would say and then even like my relationships to like my social life, it's been affecting it.",id,,,0
+67_38,T,Any drug or alcohol use?,ynq,,,4
+67_39,P,NO,yna,,,5
+67_40,T,How about any medical conditions?,ynq,,,4
+67_41,P,Nothing,yna,,,5
+67_42,T,see or hear things other people can't see or hear?,ynq,,,4
+67_43,P,No.,yna,,,5
+67_44,T,Has it ever happened to you?,ynq,,,4
+67_45,P,No. Never,yna,,,5
+67_46,T,"do you feel now recently wherever you're at a state where you're cheating too happy, like had a lot of energy and ",irq,,,1
+67_47,P,"like make mania,",irq,,,1
+67_48,T,like mania? Yeah. Nothing like that. Ever.,id,,,0
+67_49,T,Has there been any major event in the last month? Or maybe before that did you think might be causing this,irq,,,1
+67_50,P,nothing Nothing's in there significance happened to make me feel this way,id,,,0
+67_51,T,other than you think would cause depression.,gc,,,3
+67_52,T,"Sherry, I'm going to get you in to see a counselor here. Just take a couple days to get you in. Is that okay? I want to thank you for answering these questions. For me. This has been helpful.",gt,,,2
+67_53,P,Yeah. All right.,gt,,,2
+75_0,T,Does the feeling itself of not being prepared interfere with preparing?,irq,,,1
+75_1,P,"Yes, it's really hard. So like when I'm in the middle of being worried, I'm it's really hard for me to focus. So I can't focus on like what I need to do. Because I feel like my mind is on a lot of different things and I can't focus on you know exactly what I should be doing. It's just like, I'm worried about You know, all the different aspects.",id,,-1.0,0
+75_2,T,"Alright, so your ability to concentrate and do the hard work of preparing is affected",irq,,,1
+75_3,P,"Yeah, it's like focus my energy on the right things. I'm just like wasting time worrying.",id,,,0
+75_4,T,"Alright, so this excessive worrying and all this interfering of preparing all this goes on right up until you're getting ready to present",irq,,,1
+75_5,P,Yeah. And then like while I'm presenting,yna,cd,,5
+75_6,T,so let's talk about that let's go into the actual day a present so we have a successive work coming in it's interfering with your ability but it's distressing for you.,irq,,,1
+75_7,P,Yeah.,yna,,,5
+75_8,T,Now these presentations are in class? ,irq,,,1
+75_9,P,Yeah,id,,,0
+75_10,T,So it's you're in you're in the classroom. Do you write the only one to present in that classroom is it rotate through several PV?,irq,,,1
+75_11,P,"It depends on the presentation. Sometimes there's like one or two other people that have to present that night, depending on like how long the topic is.",id,,,0
+75_12,T,"All right, well, let's choose the last time you presented that classes as a template. What was the order to go in there?",irq,,,1
+75_13,P,"Well, the one that I really messed up, I think in that I was first But usually, like, I'm like, second maybe.",id,,,0
+75_14,T,"Okay. So for this example, let's say you're through the second. Okay, so you're sitting in the classroom and another student is presenting. What's going through mind that?",irq,,,1
+75_15,P,"I feel like I am totally zoned out. Like I'm not even paying attention to what that person saying, because I'm so worried about how I'm gonna mess it up. You know, I'm, I'm starting to like be sweaty, like my hands are clammy, my heart started to race a little bit, and I'm just totally zoned out on what they're doing. Just, you know, worrying about what's gonna happen when I get up there.",id,,-2.0,0
+75_16,T,"So in that moment as you're seated, you're not really watching their presentation as much because you have these strong or somewhat strong physical symptoms. You have your heart racing a bit is sweaty palms. You're zoned out. Have you ever felt the need desire to, like, run out of the room?",id,yq,,0
+75_17,P,Yes. It's funny you should say that was a little bit hesitant to mention that but I kind of I do I feel like I need to find excuse to like use the bathroom or I just need to get out of there.,yna,id,,5
+75_18,T,"Yeah, so what do you feel is most pressuring you to leave the room like what? What symptom?",irq,,,1
+75_19,P,"Um,",gc,,,3
+75_20,T,"And what thoughts are going through your mind right then like, so let's take that kind of severe moment. When you're, you're, let's just say still before the presentation, okay? So you're sitting at the desk and your heart rates elevated. And you're not focusing on what they're doing. You're zoned out your anxieties high. What was going through your mind right, then?",irq,,,1
+75_21,P,"I think I'm thinking, like, I'm gonna bomb this anyway. So I might as well just, you know, not go through the stress of having to do it. Like I've already in my head, I know that it's going to end badly.",id,,-2.0,0
+75_22,T,So you've already failed.,irq,,,1
+75_23,P,"right. So there's no sense in getting up there. And maybe if I don't get up there, you know, I guess it couldn't be any worse. So I might as well just leave",id,,,0
+75_24,T,Are you embarrassed that the professor or Other students will see that you were really anxious?,ynq,,,4
+75_25,P,"Yeah, I don't want I figure if I leave and people won't, will just make me think I was sick or whatever. And it'll be a better situation, if I just left then happened to see me up there, you know, sweating and all these other symptoms that I have when I actually get up there, it would be better just to leave before that starts.",yna,id,-2.0,5
+75_26,T,"Okay. So, so better to be thought ill and had to leave because you're saying. ",irq,,,1
+75_27,P,"Yeah, or have them wonder what happened then to just be up in front of everybody, you know,",id,,,0
+75_28,T,to have a severe anxiety for that buddy. And then they can very embarrassing. That would be a very undesirable outcome for you.,irq,,,1
+75_29,P,Right.,id,,,0
+75_30,T,"So as you're debating that thought, because that's coming to your head, and you're thinking I just need to, yeah, gotta get out here. What happens there, so we're maybe What, 15 minutes before we present? So tell me about that. So you have that thought you want to flee,",irq,,,1
+75_31,P,"right. And I'm looking at the clock and saying, you know, like, how much more time in this presentation before I have to go like, should I go? Should I not go? What are the consequences of running out? You know, and kind of playing out, which would be worse?",id,,,0
+75_32,T,Have you ever had to run out?,ynq,,,4
+75_33,P,"Um, once I went to the bathroom to try to, like calm myself down or talk to myself, or you know, like, Cool off my face. Um, but I came back",yna,id,,5
+75_34,T,"and you presented then you presented Alright, so you you survived. One of the more stressful presentations",irq,,,1
+75_35,P,"Yeah, I almost felt like I was gonna be ill. I was so stressed that day.",id,,,0
+75_36,T,"That was very, very tough on you. What happened on that particular day?",irq,,,1
+75_37,P,"So typically, like, I go to load my presentation, at this point, like, I have my new cards or whatever, in front of me. I am like, shaking at this point. I am so I don't know if it's scared, or worried or maybe a combination of everything. And I'm just like sweating. My heart is racing. Like I almost feel dizzy. I'm just so stressed out about what's going to happen. And then you know, I'm starting to speak. And then the presentations are usually like 20 minutes or so. Okay, so I have to stay up there for the duration and I'm just like, you know, sweating and then I'm wondering like, are people looking at me or people? Can people see it? You know, am I going to forget something?",id,,-2.0,0
+75_38,T,"So the some of the thoughts are you wonder if they can see how anxious you are you wonder if you're gonna do poorly on the presentation,",irq,,,1
+75_39,P,"right. Or they think I've been lazy and I didn't prepare, are they going to think that, you know, I'm dumb or I don't know, you know what I'm doing.",id,,,0
+75_40,T,"So they might, they might think less of you as a person.",irq,,,1
+75_41,P,Right. Or like be judging me. Okay.,id,,,0
+75_42,T,Yeah. So there's a number of concerns that kind of going through your mind in that moment. So when does this start to turn around so you start presenting is 20 minutes you initially get up there and get your presentation up on the The projection monitor. Yeah. When does it start to turn the corner?,id,irq,,0
+75_43,P,"Um, it's depends sometimes I settled down a little bit, but then usually like that, I get some sort of rhythm I think. And then, but then it gets anxiety again until I get my grades. Do you know what I mean? And I'm like, until, because I feel like I'm gonna do poorly. Until that happens when",id,,,0
+75_44,T,when you receive the grades.,irq,,,1
+75_45,P,"Sometimes, like she usually doesn't give them that day but like often like the next day or the day after",id,,,0
+75_46,T,So does that intense anxiety that you're having while you're presenting last all the way?,ynq,,,4
+75_47,P,now? It definitely like dissipates once I can like go sit down.,yna,,,5
+75_48,T,"Okay, so so the sort of next big drop off for symptoms would be when you're done with  the presentation",irq,,,1
+75_49,P,"Yeah, when eyes are maybe no longer on me. They've moved on to somebody else. So I figured like, okay, they forgot about me. I'm safe.",id,,,0
+75_50,T,"All right, then. But then there's this other worry of now we have to see what the grades are right?",ynq,,,4
+75_51,P,And I convince myself that I did poorly.,id,,-1.0,0
+75_52,T,So the thought is going through your mind is I'm gonna receive a bad grade.,ynq,,,4
+75_53,P,"Yeah, and that everyone saw me, you know, sweating and all these symptoms that I have everyone is judging me",yna,id,,5
+97_0,T,"Jackie, I joined today. Okay, how about you?",gt,,,2
+97_1,P,"I do well, thanks for asking. ",gt,,,2
+97_2,T,I understand you've been having some difficulties recently that have brought you into the agency.,id,,,0
+97_3,P,"Yeah, I'm, I'm recently married. And so my husband and I moved in together. And up until then I I've lived by myself. My whole adult life. So apparently the craziest things have been happening. While I've been sleeping. several, several nights I've woken him up screaming. I'm screaming. Apparently a very vulgar, profane, profane the words and So that's a little alarming to him. And I've even, you know, we've been hitting him in the middle of the night. You know, he's waking up with these huge bruises on his arms. And so yeah, apparently, a behavior in the middle of the night is out of hand.",id,,,0
+97_4,T,So I can understand why that would be distressing. Have you seen a physician about this?,ynq,id,,4
+97_5,P,"Yes. Um, I participated in a sleep study and what they say they rolled out some some other things and thought that maybe it was a behavior, Sleep Disorder. So they have referred me to you, I'm still working with them. Now. They're still running some tests and everything but they thought maybe there are some other stressors or underlying things, so",id,op,,0
+97_6,T,that might be going on. So what would you like from counseling?,irq,,,1
+97_7,P,"Colby? Um, well, I'm just little worried that it's going to affect my marriage and that my husband will not be able to deal with that. So I would just really like to figure out how to keep my relationship with Him successful with it. So overcome these issues.",id,,,0
+97_8,T,"So, after you were yelling things, or you hit him, like you're asleep during this time, when you wake up, what's going through your mind then?",irq,,,1
+97_9,P,"Usually I wake up and he's like, what are you doing? I was having the worst dream. So those dreams are kind of what he's telling me are aligning. What my behavior is, my dreams are aligning with those. So you know, I don't feel anything. It doesn't feel like I've been anything. I have. I've met a couple times and woken up, but no people do that. So I didn't really think anything of it. But now I'm starting to wonder. Yeah, it's it's a little strange. So Oh, concerning.",id,,,0
+97_10,T,Sorry. I wonder if you have this disorder before?,irq,,,1
+97_11,P,"Yeah, I mean, I would, I wouldn't have known. I've lived by myself. But you know, I, before I had fallen out of bed a couple times, and, you know, my sheets and pillows are always everywhere when I wake up, but I didn't really think anything of it. So kind of making the connections now.",id,op,,0
+97_12,T,"So he's been paying attention to what's going on with your sleep. Does the episode of yelling or moving around, does it happen a certain time limit? Like what happened right after you go to sleep or a while",irq,yq,,1
+97_13,P,"after you go to sleep? I'm in the middle of the night he has. He said at first he thought I was joking around But, yeah, no, no, I am waking him up, you know. So",id,,,0
+97_14,T,does that ever happen when you take like a nap for a short nap?,ynq,,,4
+97_15,P,No.,yna,,,5
+97_16,T,Not that I know,gc,,,3
+97_17,P,"that he's, he's usually around electronic cash snapping he says it hasn't happened and so. Alright.",gc,,,3
+97_18,T,"So only at night when you're sleeping overnight and in the middle of that sleep. All right, would you be okay with sign a release so I can communicate with your question. ",irq,,,1
+97_19,P,Yeah.,yna,,,5
+97_20,T,And do you want your husband to be part of the counseling?,ynq,,,4
+97_21,P,"Yeah, that would probably be helpful for him to kind of get this side of things too.",id,op,,0
+97_22,T,And you'd be okay saying release for him?,ynq,,,4
+97_23,P,"Yes, yes.",yna,,,5
+97_24,T,So I'll get you scheduled into see a counselor. I appreciate you tell me what's going on. ,gt,,,2
+97_25,P,It's been it's been helpful. Thank you. Prepare health,gt,,,2
