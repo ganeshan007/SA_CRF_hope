@@ -15,7 +15,11 @@ def get_splits(corpus_name):
     if corpus_name=='a2g':
         return a2g_split.train_set_idx,a2g_split.valid_set_idx,a2g_split.test_set_idx
     if corpus_name=='hope':
+<<<<<<< HEAD
         return hope_split.train_set_idx,hope_split.valid_set_idx, hope_split.test_set_idx
+=======
+        return hope_split.train_set_idx,hope_split.valid_set_idx,hope_split.test_set_idx
+>>>>>>> a77866dbfa2b1622ddc60dd0907359b3a38c9204
 
 
 def load_corpus(corpus_name, conversation_list):
